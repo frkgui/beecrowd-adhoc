@@ -9,11 +9,9 @@ This repository contains my solutions to BeeCrowd Ad-Hoc coding challenges. Each
 
 ## Completed Challenges till here
 
-1. [Challenge Name 1](link_to_challenge_1)
-   - Brief description of the problem and my approach.
+1. [beecrowd | 1030 - Flavious Josephus Legend
+](https://www.beecrowd.com.br/judge/en/problems/view/1030)
 
-2. [Challenge Name 2](link_to_challenge_2)
-   - Brief description of the problem and my approach.
 
 ## Author
 
